@@ -29,7 +29,7 @@ const LatestPlayed = () => {
               width={800}
               height={800}
               className="w-10 h-10 hidden md:block rounded-lg object-cover"
-              src={project.image}
+              src="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=600"
               alt=""
             />
             <div className="flex-1 text-center">
